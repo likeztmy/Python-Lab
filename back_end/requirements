@@ -1,0 +1,14 @@
+flask
+flask_cors
+requests
+google
+openpyxl
+wordcloud
+Pillow
+numpy
+matplotlib
+nltk
+sqlalchemy
+functools
+hashlib
+urllib
